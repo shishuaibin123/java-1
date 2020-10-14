@@ -10,8 +10,11 @@ public class CPU {
 	{
 		return brand;
 	}
-	int setSpeed(){
-	      
+	public void setSpend(int spend){
+	  this.amount=amount;
+  } 
+	public void setBrand(String brand){
+	 this.brand=brand;
 	}
 	
 	public void setspeed(int speed,String name){
