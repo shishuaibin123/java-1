@@ -10,7 +10,9 @@ public class PC {
 	  this.HD=HD;
   }
   void show(){
-	  System.out.println("CPU�ٶ�:"+cpu.getSpeed());
-	  System.out.println("Ӳ������:"+HD.getAmount());
+	  System.out.println("CPUËÙ¶È:"+cpu.getSpeed());
+	  System.out.println("CPU的品牌"+cpu.getBrand());
+	  System.out.println("Ó²ÅÌÈÝÁ¿:"+HD.getAmount());
+	  
   }
 }
