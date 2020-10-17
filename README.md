@@ -9,11 +9,10 @@ java课程作业仓库
 ## 2. 实验设计
 1.设置硬盘对象，给CPU对象设置amount,speed方法。设置amount,speed方法在硬盘对象
 
-    public class  {
-    public int Speed;   
-    public String name; 
-
-
+   public class HardDisk {
+  int amount;
+  int prise;
+  int getAmount(){
  ## 3. 核心方法
  
     1
@@ -45,7 +44,7 @@ java课程作业仓库
     CPU:2200
     硬盘容量:200
     CPU名称:007
-
+    cpu价格：1200
   ## 5.实验感想
 
   + 1.通过这个实验学习到了，在一个包里不同文件中如何建立联系，每个类中所代表的含义。发现自己要学的东西好友很多。
