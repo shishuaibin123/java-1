@@ -9,7 +9,7 @@ java课程作业仓库
 ## 2. 实验设计
 1.设置硬盘对象，给CPU对象设置amount,speed方法。设置amount,speed方法在硬盘对象
 
-    public class CPU {
+    public class  {
     public int Speed;   
     public String name; 
 
