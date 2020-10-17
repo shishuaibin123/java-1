@@ -6,6 +6,7 @@ public class Test {
 	HardDisk HD=new HardDisk();
 	cpu.setspeed(2200);
 	HD.setAmount(200);
+	HD.setPrise(1200);
 	PC pc=new PC();
 	pc.setCPU(cpu);
 	pc.setHardDisk(HD);
