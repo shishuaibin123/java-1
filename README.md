@@ -7,12 +7,14 @@ java课程作业仓库
 3. 根据课堂中关于访问权限的内容，尝试定义属性的修饰多样化，类中定义方法操作属性，避免直接通过“类对象属性的形式访问属性值;且定义的方法内应该又符合常理的逻辑判断.
 4. 尝试把本次实验的多个类放置在不同的包中.
 ## 2. 实验设计
-1.设置硬盘对象，给CPU对象设置amount,speed方法。设置amount,speed方法在硬盘对象
-
+1.设置硬盘对象，给HardDisk对象设置amount,prise方法。设置amount,prise方法在硬盘对象
+```
    public class HardDisk {
   int amount;
   int prise;
   int getAmount(){
+  }
+  ```
  ## 3. 核心方法
  
     1
