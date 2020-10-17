@@ -9,7 +9,14 @@ public class HardDisk {
   public void setAmount(int amount){
 	  this.amount=amount;
   }
-  HardDisk(){
+ int Prise()
+ {  
+	 return prise;
+ }
+	public void setPrise(int prise){
+	  this.prise=prise;
+	}
+	HardDisk(){
 	  
   }
 }
