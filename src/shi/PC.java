@@ -12,6 +12,7 @@ public class PC {
   void show(){
 	  System.out.println("CPU:"+cpu.getSpeed());
 	    System.out.println("硬盘容量:"+HD.getAmount());
+	     System.out.println("硬盘价格："+HD.getPrice());
 	  System.out.println("CPU的名称："+cpu.getBrand());
 	
 	  
