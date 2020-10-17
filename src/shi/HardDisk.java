@@ -2,6 +2,7 @@ package shi;
 
 public class HardDisk {
   int amount;
+  int prise;
   int getAmount(){
 	  return amount; 
   }
